@@ -1,0 +1,10 @@
+E:\core\sCollect\sCollect\obj\Debug\sCollect.csprojAssemblyReference.cache
+E:\core\sCollect\sCollect\obj\Debug\sCollect.Form1.resources
+E:\core\sCollect\sCollect\obj\Debug\sCollect.Properties.Resources.resources
+E:\core\sCollect\sCollect\obj\Debug\sCollect.csproj.GenerateResource.cache
+E:\core\sCollect\sCollect\obj\Debug\sCollect.csproj.CoreCompileInputs.cache
+E:\core\sCollect\sCollect\bin\Debug\sCollect.exe.config
+E:\core\sCollect\sCollect\bin\Debug\sCollect.exe
+E:\core\sCollect\sCollect\bin\Debug\sCollect.pdb
+E:\core\sCollect\sCollect\obj\Debug\sCollect.exe
+E:\core\sCollect\sCollect\obj\Debug\sCollect.pdb
